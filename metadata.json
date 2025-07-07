@@ -1,0 +1,6 @@
+{
+  "description": "Upload an MP3 audio file and this application will transcribe the speech into text with speaker diarization using the Gemini API.",
+  "prompt": "transcribe with speaker diarization",
+  "requestFramePermissions": [],
+  "name": "App"
+}
